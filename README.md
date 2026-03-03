@@ -19,7 +19,7 @@
 
 中文论文务必使用 XeLaTeX 
 
-Overleaf/OnlineLaTex 的配置参考下图，选择 XeLaTeX 编译器，编译器版本选择 TeX Live 2021。
+Overleaf/OnlineLaTex 的配置参考下图，选择 XeLaTeX 编译器，编译器版本选择 TeX Live 2023。
 
 ![Overleaf配置](src/imgs/overleaf.png)
 
