@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+Tmp/*
+
+# LaTeX 辅助文件
+*.aux
+*.lof
+*.lot
+*.toc
+*.loappfig
+*.loapptab
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.log
+*.out
