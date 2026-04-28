@@ -723,7 +723,7 @@
         nameformat = {},
         titleformat = {},
         number = \arabic{chapter},
-        numberformat = \rmfamily,
+        numberformat = \sffamily,
         aftername = \quad,
         beforeskip = {7pt},
         afterskip = {18pt},
@@ -764,7 +764,7 @@
 \ctexset {
     appendix = {
         numbering = true,
-        number = \rmfamily\zhnum{chapter},
+        number = \zhnum{chapter},
     }
 }
 %---------------------------------------------------------------------------%
